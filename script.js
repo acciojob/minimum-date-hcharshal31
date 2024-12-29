@@ -47,5 +47,5 @@ var dates = [
   "2023/03/29",
   "2023/03/30",
 ];
-
+console.log(minDate(dates));
 // alert(minDate(dates));
